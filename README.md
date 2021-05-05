@@ -6,9 +6,8 @@
 - [x] Google Sheet API
 - [x] coWin API parser
 - [x] Flask-Mail set up
-- [ ] Time Scheduler
-- - Every 5 minutes for 18+
-- - Every 12 hours for 45+
+- [x] Time Scheduler
+- - Every 1 minute for 18+
 - [x] Mail beautification
 - - Add coWin Website
 - [ ] Threading/Parallel Computing
